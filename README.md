@@ -6,7 +6,7 @@ A DIY 3D printed keyboard using 12 mechanical keyboard switches for piano keys! 
 ## Design
 3D overview of the keyboard case. I printed using a .4mm nozzle and 20% infill. Supports are necessary for some parts but do not put too many.
 
-Since the STL files were larger than my print area, I had to split the case into [multiple parts (https://github.com/lerrylei/mechKeyPiano/tree/main/CAD%20Files/Split%20CAD).  
+Since the STL files were larger than my print area, I had to split the case into [multiple parts] (https://github.com/lerrylei/mechKeyPiano/tree/main/CAD%20Files/Split%20CAD).  
 
 ![3D model](https://user-images.githubusercontent.com/41922343/181350452-c32a6fe4-fa29-4e20-bc20-b5e02175b783.gif)
 
